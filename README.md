@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manishm345
+- 👋 Hi, I’m Manish Maheshwari
 - 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently learning Machine Learning at Harvard
 - 💞️ I’m looking to collaborate on AI projects
